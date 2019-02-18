@@ -1,0 +1,5 @@
+%Crear vector n con los siguientes valores
+n = [1 10 100 500 1000 2000 4000 8000];
+
+%Comprobar que...
+e = (1 + (1./n)^.n);
